@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2024-02-21 18:29:16 +0900
+categories: profile
+---
+
+# Jongbeen Song
+> I am curiosity-driven 
+
+> 회귀
+
+> 항해
+
+> 토론
+
+> 언어학, AI를 포함한 지능, 보드게임, 칵테일 제조, 의회식 토론, 바이에른 뮌헨
